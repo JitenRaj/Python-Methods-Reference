@@ -6,7 +6,7 @@ print("\nDefault length of list :", len(numbers)) # to check & print the lenght 
 print(numbers) # to print the list
 
 numbers += [7,9,6] # to add items/list in the list
-print("length after adding three numbers in list :",len(numbers)) 
+print("length after adding 3 numbers in list :",len(numbers)) 
 print(numbers)
 
 numbers.append(0) # to add an item in end of the list, we use list.append()
