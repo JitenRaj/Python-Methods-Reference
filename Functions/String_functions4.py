@@ -1,9 +1,9 @@
 # String Functions
 
-# Upper functions is used to make all the latters/string Upper case
+# Upper functions is used to make all the latters in string/list Upper case
 print("Benzene is a good player".upper())
 
-# Lower functions is used to make all the latters/string Lower case
+# Lower functions is used to make all the latters in string/list Lower case
 print("BENZENE IS A GOOD PLAYER".lower())
 
 # Replace function is used to replace one string with another
