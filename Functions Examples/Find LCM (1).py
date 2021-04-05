@@ -1,4 +1,4 @@
-def lcm(x,y):
+def ComputeLCM(x,y):
     if x > y:
         greater = x
     else:
@@ -15,4 +15,4 @@ def lcm(x,y):
 num1=54
 num2=24
 
-print("The H.C.F of", num1,"and", num2,"is",lcm(num1,num2))
+print("The H.C.F of", num1,"and", num2,"is",ComputeLCM(num1,num2))
