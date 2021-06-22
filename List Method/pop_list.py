@@ -1,3 +1,5 @@
+
+#pop from list
 fruits = ['apple', 'banana', 'cherry']
 print(fruits)
 fruits.pop(1)
