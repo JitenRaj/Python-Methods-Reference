@@ -5,3 +5,11 @@ txt = "banana"
 x = txt.ljust(20)
 
 print(x, "is my favorite fruit.")
+
+# Using the letter "O" as the padding character:
+
+txt = "banana"
+
+x = txt.ljust(20, "O")
+
+print(x)
