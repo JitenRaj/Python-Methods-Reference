@@ -9,3 +9,9 @@ print(x)
 x = max("Mike", "John", "Vicky")
 
 print(x)
+
+# Return the item in a tuple with the highest value:
+
+a = (1, 5, 3, 9)
+x = max(a)
+print(x)
