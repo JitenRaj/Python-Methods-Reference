@@ -17,7 +17,7 @@ This repo contains the code snippets covering Python methods and functions refer
 - [List Methods](https://github.com/JitenRaj/Python-Methods-Reference/tree/main/List%20Method)
 - [Dictionary Methods](https://github.com/JitenRaj/Python-Methods-Reference/tree/main/Dictionary%20Methods)
 - [Set Methods](https://github.com/JitenRaj/Python-Methods-Reference/tree/main/Set%20Methods)
--
+- [Tuple Methods](https://github.com/JitenRaj/Python-Methods-Reference/tree/main/Tuple%20Methods)
 
 #### File Handling & Methods
 - [File Handling](https://github.com/JitenRaj/Python-Methods-Reference/tree/main/File%20Handling)
